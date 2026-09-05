@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm David (directorlagbaja)
 
-<!--
-**directorlagbajaweb/directorlagbajaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI engineer. I build agents and AI-powered applications..
+mostly things I wanted to exist and couldn't find.
 
-Here are some ideas to get you started:
+**What I'm building**
+- **Vision** — a macOS voice assistant, software-only
+- **Backbench** — a RAG teaching bot
+- A Slack habit tracker that actually nags you (trust me ALWAYS!!!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Day job:** technical support engineer at Field Partners,
+working on the Shelflife platform.
+
+**Stack:** Python, TypeScript, LLM APIs, RAG pipelines
+
