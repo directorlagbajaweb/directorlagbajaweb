@@ -8,7 +8,7 @@ mostly things I wanted to exist and couldn't find.
 - **Backbench** — a RAG teaching bot
 - A Slack habit tracker that actually nags you (trust me ALWAYS!!!)
 
-**Day job:** technical support engineer at Field Partners,
+**Day job:** technical support engineer at Field.inc,
 working on the Shelflife platform.
 
 **Stack:** Python, TypeScript, LLM APIs, RAG pipelines
